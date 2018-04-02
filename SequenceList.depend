@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1522556869 source:g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\sequencelist.c
+	<stdio.h>
+	<stdlib.h>
+	"SequenceList.h"
+
+1522556858 g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\sequencelist.h
+
+1522557375 source:g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkList.h"
+
+1522556814 g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\linklist.h
+
+1522645296 source:g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\main.c
+	"SequenceList.h"
+	"LinkList.h"
+	"StackSQ.h"
+
+1522595191 source:g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\dblinklist.c
+	<stdio.h>
+	<stdlib.h>
+	"DBLinkList.h"
+
+1522595164 g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\dblinklist.h
+
+1522645277 g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\stacksq.h
+
+1522646385 source:g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\sources\dblinklist.c
+	<stdio.h>
+	<stdlib.h>
+	"../Headers/DBLinkList.h"
+
+1522595164 g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\headers\dblinklist.h
+
+1522646402 source:g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\sources\linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"../Headers/LinkList.h"
+
+1522556814 g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\headers\linklist.h
+
+1522646423 source:g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\sources\main.c
+	"../Headers/SequenceList.h"
+	"../Headers/LinkList.h"
+	"../Headers/StackSQ.h"
+
+1522556858 g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\headers\sequencelist.h
+
+1522645277 g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\headers\stacksq.h
+
+1522646427 source:g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\sources\sequencelist.c
+	<stdio.h>
+	<stdlib.h>
+	"../Headers/SequenceList.h"
+
+1522646431 source:g:\programing\datastructure\datastructurelearn\sequencelist\sequencelist\sources\stacksq.c
+	<stdio.h>
+	<stdlib.h>
+	"../Headers/StackSQ.h"
+
